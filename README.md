@@ -17,23 +17,23 @@
 
 ## Настройка
 
-restart_settings:
-  title:
-    name: "Рестарт"
-    sub_title: "через %time% секунд"
-    fadeIn: 5
-    stay: 20
-    fadeOut: 5
-  bossBar:
-    name: "Рестарт через %time% секунд"
-    barColor: RED
-    barStyle: SOLID
+-restart_settings:
+  -title:
+    -name: "Рестарт"
+    -sub_title: "через %time% секунд"
+    -fadeIn: 5
+    -stay: 20
+    -fadeOut: 5
+  -bossBar:
+    -name: "Рестарт через %time% секунд"
+    -barColor: RED
+    -barStyle: SOLID
 
-auto_restart:
-  enabled: true
-  time_to_restart: 60 #seconds
-  tz: Europe/Moscow
-  time:
+-auto_restart:
+  -enabled: true
+  -time_to_restart: 60 #seconds
+  -tz: Europe/Moscow
+  -time:
     - 12:00
     - "15:55"
 
