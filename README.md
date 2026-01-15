@@ -19,13 +19,13 @@
 
 restart_settings:
   title:
-    name: "&cРестарт"
-    sub_title: "&cчерез %time% секунд"
+    name: "Рестарт"
+    sub_title: "через %time% секунд"
     fadeIn: 5
     stay: 20
     fadeOut: 5
   bossBar:
-    name: "&cРестарт через %time% секунд"
+    name: "Рестарт через %time% секунд"
     barColor: RED
     barStyle: SOLID
 
@@ -38,43 +38,43 @@ auto_restart:
     - "15:55"
 
 #   TIMEZONE
-#Europe/Moscow
-#Europe/London
-#Europe/Paris
-#Europe/Berlin
-#Europe/Rome
-#Europe/Madrid
-#Europe/Kiev
-#Europe/Istanbul
-#Europe/Stockholm
-#Europe/Warsaw
-#Asia/Tokyo
-#Asia/Seoul
-#Asia/Shanghai
-#Asia/Hong_Kong
-#Asia/Singapore
-#Asia/Dubai
-#Asia/Jerusalem
-#Asia/Kolkata
-#Asia/Bangkok
-#Asia/Muscat
-#America/New_York
-#America/Chicago
-#America/Denver
-#America/Los_Angeles
-#America/Sao_Paulo
-#America/Mexico_City
-#America/Caracas
-#America/Argentina/Buenos_Aires
-#America/Anchorage
-#America/Phoenix
-#Africa/Cairo
-#Africa/Johannesburg
-#Africa/Lagos
-#Africa/Nairobi
-#Africa/Algiers
-#Australia/Sydney
-#Australia/Melbourne
-#Australia/Brisbane
-#Pacific/Auckland
-#Pacific/Fiji
+Europe/Moscow
+Europe/London
+Europe/Paris
+Europe/Berlin
+Europe/Rome
+Europe/Madrid
+Europe/Kiev
+Europe/Istanbul
+Europe/Stockholm
+Europe/Warsaw
+Asia/Tokyo
+Asia/Seoul
+Asia/Shanghai
+Asia/Hong_Kong
+Asia/Singapore
+Asia/Dubai
+Asia/Jerusalem
+Asia/Kolkata
+Asia/Bangkok
+Asia/Muscat
+America/New_York
+America/Chicago
+America/Denver
+America/Los_Angeles
+America/Sao_Paulo
+America/Mexico_City
+America/Caracas
+America/Argentina/Buenos_Aires
+America/Anchorage
+America/Phoenix
+Africa/Cairo
+Africa/Johannesburg
+Africa/Lagos
+Africa/Nairobi
+Africa/Algiers
+Australia/Sydney
+Australia/Melbourne
+Australia/Brisbane
+Pacific/Auckland
+Pacific/Fiji
