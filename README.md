@@ -29,6 +29,11 @@
     - barColor: RED
     - barStyle: SOLID
 
+ - sounds:
+   - soundName: BLOCK_ANVIL_FALL
+   - volume: 5
+   - pitch: 5
+
 - auto_restart:
   - enabled: true
   - time_to_restart: 60 #seconds
